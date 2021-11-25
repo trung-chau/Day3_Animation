@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day3_Animation</string>
+    <string name="label_tab_layout_seven_day">7 Days</string>
+    <string name="label_tab_layout_last_week">Last Week</string>
+    <string name="label_bar_data_set">Total Expense</string>
+    <string name="icon_super_market">Icon super market</string>
+    <string name="text_total">Total</string>
+    <string name="total_count">5 000 000 VND</string>
+    <string name="currency_unit">VND</string>
+    <string name="convert_to_thousand">.000 </string>
+</resources>
